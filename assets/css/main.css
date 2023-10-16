@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.container {
+  height: 100vh;
+  text-align: center;
+}
+.container header {
+  background-color: rgb(230, 203, 29);
+  height: 20%;
+  width: inherit;
+}
+.container main {
+  background-color: rgb(46, 24, 211);
+  height: 60%;
+  width: inherit;
+}
+.container footer {
+  background-color: rgb(171, 241, 161);
+  height: 20%;
+  width: inherit;
+}
